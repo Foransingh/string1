@@ -20,7 +20,7 @@ public class testconCat
 {
 	public static void main(String args[])
 	{
-	middleThree m=new firstHalf();
-	System.out.println(m.middleThree("foran"));
+	conCat c=new conCat();
+	System.out.println(c.conCat("fora","an"));
 	}
 }
